@@ -80,7 +80,7 @@ function draw() {
   }
 
   if(keyWentUp(UP_ARROW)){
-    writeStock(foodS);
+    //writeStock(foodS);
     dog.addImage(dogImg);
     milk1.visible = false;
   }
