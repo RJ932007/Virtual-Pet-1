@@ -89,7 +89,7 @@ function draw() {
 if(foodS == 0){
   
   dog.addImage(dogImg);
-  foodS = 50;
+  //foodS = 50;
 
 }
 
